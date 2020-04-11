@@ -1,9 +1,8 @@
-# django
-Complete look on django with detailed doc
+# Chapter - 1
+In this chapter 
 
-# Learn
-We have couple of chapters to learn about django and each has a readme and doc files which explains there goals.
+1) How to create django project
+2) Create an app in django-project
+3) Code walk-through 
 
-Each chapter is considered as branch check out the branches .
-
-### Happy codding :)
+## happy codding :) 
